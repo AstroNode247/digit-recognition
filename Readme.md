@@ -18,3 +18,5 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 The training data set, (train.csv), has 785 columns. The first column, called "label", is the digit that was drawn by the user. The rest of the columns contain the pixel-values of the associated image.4
 
 The test data set, (test.csv), is the same as the training set, except that it does not contain the "label" column.
+
+All data that is used in this notebook is available through stored data of the kaggle competition [here](https://www.kaggle.com/c/digit-recognizer/data).
